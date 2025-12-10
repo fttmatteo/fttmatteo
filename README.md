@@ -1,44 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello!%20Java%20Backend%20Developer&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Junior%20Engineer%20%7C%20Clean%20Code%20Enthusiast&descAlignY=55&descAlign=60" alt="Header" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" alt="Backend Skills" height="60" />
-  
-  <br/> <br/>
-
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,linux,bash&theme=dark" alt="Cloud Skills" height="60" />
-
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Architecture-Hexagonal-purple?style=for-the-badge&logo=hive&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Antigravity-Enabled-FF4500?style=for-the-badge&logo=spacex&logoColor=white" height="35" />
-  
-</div>
-
----
-
-<div align="center">
-
-  <a href="https://linkedin.com/in/fttmatteo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  
-  <br /> <br />
-
-  <h3> 🚀 Developing clean, scalable backend solutions in the Cloud.</h3>
-  
-</div>
-
 ### 👨‍💻 About Me
 I am a **Junior Backend Developer** passionate about the **Java Ecosystem**. I focus on learning best practices and writing clean, maintainable code built for the real world.
 
@@ -47,6 +6,30 @@ I am a **Junior Backend Developer** passionate about the **Java Ecosystem**. I f
 - ☁️ Learning to deploy applications on **Google Cloud Platform (GCP)**.
 - 🔐 Securing APIs with **JWT** authentication.
 - ⚡ Secret Superpower: **Antigravity** (because sometimes, code just needs to fly).
+
+<div align="left">
+
+  <a href="https://linkedin.com/in/fttmatteo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:valenciaardila988@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+
+---  
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" alt="Backend Skills" height="60" />
+  <br/> <br/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,linux,bash&theme=dark" alt="Cloud Skills" height="60" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Architecture-Hexagonal-purple?style=for-the-badge&logo=hive&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/JWT-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Antigravity-Enabled-FF4500?style=for-the-badge&logo=spacex&logoColor=white" height="35" />
+</div>
 
 ---
 
