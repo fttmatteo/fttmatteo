@@ -1,5 +1,5 @@
 # About Me
-I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on learning best practices and writing clean, maintainable code built for the real world.<br><br>🔭 I’m currently building Microservices with Spring Boot.<br>🏗️ focusing on Hexagonal Architecture principles to keep code decoupled.<br>☁️ Learning to deploy applications on Google Cloud Platform (GCP).<br>🔐 Securing APIs with JWT authentication.<br>⚡ Antigravity.
+I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on learning best practices and writing clean, maintainable code built for the real world.<br><br>🔭 I’m currently building Microservices with Spring Boot.<br>🏗️ focusing on Hexagonal Architecture principles to keep code decoupled.<br>☁️ Learning to deploy applications on Google Cloud Platform (GCP).<br>🔐 Securing APIs with JWT authentication.
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Wp9rrNwq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ftt-matteo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ft-matteo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valenciaardila988@icloud.com) 
@@ -17,9 +17,6 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fttmatteo&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
