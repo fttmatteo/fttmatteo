@@ -13,7 +13,7 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fttmatteo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
 
 ## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fttmatteo&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=fttmatteo&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true)
 
 ## Contributions
 ![Snake animation](https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg)
