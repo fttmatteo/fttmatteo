@@ -23,4 +23,4 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 
 ---
 
-![Hits](https://hits.sh/github.com/fttmatteo.svg?style=flat&label=Profile%20Views&color=007ec6)
+![Profile Views](https://komarev.com/ghpvc/?username=fttmatteo&color=blue)
