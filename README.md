@@ -15,6 +15,12 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fttmatteo&limit=5&theme=react&combine_all_yearly_contributions=true)
 
+## 🐍 Snake Animation
+![](https://github-readme-stats.vercel.app/api?username=fttmatteo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg" alt="Snake animation" />
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
