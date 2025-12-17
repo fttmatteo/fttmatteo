@@ -23,4 +23,4 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fttmatteo.fttmatteo)
+![Hits](https://hits.sh/github.com/fttmatteo.svg?style=flat&label=Profile%20Views&color=007ec6)
