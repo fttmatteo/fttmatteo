@@ -18,9 +18,9 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 ## Contributions
 ![Snake animation](https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg)
 
-#### Dev Quote
+## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=fttmatteo&icon=10&color=0)](https://visitcount.itsvg.in)
+![Hits](https://hits.sh/github.com/fttmatteo.svg?style=flat&label=Profile%20Views&color=007ec6)
