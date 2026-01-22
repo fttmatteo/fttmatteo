@@ -16,7 +16,7 @@ I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on 
 ![Snake animation](https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg)
 
 ## Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" width="100%" style="max-width: 600px;" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&layout=center)
 
 ---
 
