@@ -1,22 +1,76 @@
-# About Me
-I am a Junior Backend Developer passionate about the Java Ecosystem. I focus on learning best practices and writing clean, maintainable code built for the real world.<br><br>- I’m currently building Microservices with Spring Boot.<br>- focusing on Hexagonal Architecture principles to keep code decoupled.<br>- Learning to deploy applications on Google Cloud Platform (GCP).<br>- Securing APIs with JWT authentication.
+<div align="center">
 
-# Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Wp9rrNwq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ftt-matteo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ft-matteo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valenciaardila988@icloud.com) 
+# Mateo Valencia Ardila
+### Desarrollador de Software
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ftt-matteo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valenciaardila988@icloud.com)
 
-# Tech Stack
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge) ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge) ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge)
+</div>
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fttmatteo&theme=algolia&hide_border=true&border_radius=10)
-![](https://nirzak-streak-stats.vercel.app/?user=fttmatteo&theme=algolia&hide_border=true&border_radius=10)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fttmatteo&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10)
+Diseño y construyo sistemas escalables, arquitecturas limpias y soluciones B2B. Transformo requerimientos complejos en software robusto utilizando el ecosistema **Java**, integraciones en la nube y buenas prácticas de ingeniería.
+
+---
+
+<div align="center">
+  
+### Arquitectura & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### Cloud, DevOps & Herramientas
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
+## Experiencia Comercial
+
+**Sistema de Gestión Logística End-to-End (Desarrollo B2B Privado)**
+Lideré el diseño y desarrollo de una plataforma logística integral para la optimización de rutas y seguimiento en tiempo real, actualmente en producción.
+* **Arquitectura Backend:** Diseño basado en **Arquitectura Hexagonal (Puertos y Adaptadores)** y Domain-Driven Design (DDD) construido con **Java y Spring Boot**.
+* **Infraestructura & Datos:** Despliegue en **Google Cloud Platform (GCP)**. Gestión de datos relacionales con **MySQL** (versionado con Flyway) y caché/mensajería en tiempo real usando **Redis** (Pub/Sub).
+* **Integraciones Core:** Desarrollo de un Bot conversacional nativo utilizando la API de **Meta/WhatsApp** para notificaciones automatizadas y flujos de negocio. Integración profunda con Google Maps API.
+* **Frontend Cliente:** Desarrollo de una Progressive Web App (PWA) "offline-first" orientada a dispositivos móviles usando **React, TypeScript y Capacitor**, asegurando la continuidad del trabajo sin conexión a internet.
+
+---
+
+## Código Público
+
+Como el núcleo de mi trabajo comercial es privado, aquí tienes una demostración pública de mi forma de estructurar código:
+
+### [Clinic Management REST API](https://github.com/fttmatteo/clinic-rest-api)
+API RESTful diseñada para la gestión integral de historias clínicas, agendamiento médico y facturación.
+* **Stack:** Java, Spring Boot, Spring Security, MySQL.
+* **Destacado:** Implementación estricta de seguridad con tokens **JWT**, diseño de base de datos altamente normalizado y separación clara de responsabilidades en la capa de servicio.
+
+---
+
+## Conecta conmigo y conoce más
+
+Conoce a fondo la arquitectura, los diagramas y los casos de estudio de mis proyectos en mi portafolio:
+
+👉 **[Visita mi Portafolio Web](https://tudominio.com)**
+
+---
 
 ## Contributions
 ![Snake animation](https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg)
-
-## Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&layout=center)
 
 ---
 
