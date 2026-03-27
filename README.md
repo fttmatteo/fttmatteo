@@ -50,25 +50,6 @@ Lideré el diseño y desarrollo de una plataforma logística integral para la op
 
 ---
 
-## Código Público
-
-Como el núcleo de mi trabajo comercial es privado, aquí tienes una demostración pública de mi forma de estructurar código:
-
-### [Clinic Management REST API](https://github.com/fttmatteo/clinic-rest-api)
-API RESTful diseñada para la gestión integral de historias clínicas, agendamiento médico y facturación.
-* **Stack:** Java, Spring Boot, Spring Security, MySQL.
-* **Destacado:** Implementación estricta de seguridad con tokens **JWT**, diseño de base de datos altamente normalizado y separación clara de responsabilidades en la capa de servicio.
-
----
-
-## Conecta conmigo y conoce más
-
-Conoce a fondo la arquitectura, los diagramas y los casos de estudio de mis proyectos en mi portafolio:
-
-👉 **[Visita mi Portafolio Web](https://tudominio.com)**
-
----
-
 ## Contributions
 ![Snake animation](https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg)
 
