@@ -6,11 +6,7 @@
 
 </div>
 
-Diseño y construyo sistemas escalables, arquitecturas limpias y soluciones B2B. Transformo requerimientos complejos en software robusto utilizando el ecosistema **Java**, integraciones en la nube y buenas prácticas de ingeniería.
-
 ---
-
-<div align="center">
   
 ### Arquitectura & Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,19 +30,6 @@ Diseño y construyo sistemas escalables, arquitecturas limpias y soluciones B2B.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
-
-</div>
-
----
-
-## Experiencia Comercial
-
-**Sistema de Gestión Logística End-to-End (Desarrollo B2B Privado)**
-Lideré el diseño y desarrollo de una plataforma logística integral para la optimización de rutas y seguimiento en tiempo real, actualmente en producción.
-* **Arquitectura Backend:** Diseño basado en **Arquitectura Hexagonal (Puertos y Adaptadores)** y Domain-Driven Design (DDD) construido con **Java y Spring Boot**.
-* **Infraestructura & Datos:** Despliegue en **Google Cloud Platform (GCP)**. Gestión de datos relacionales con **MySQL** (versionado con Flyway) y caché/mensajería en tiempo real usando **Redis** (Pub/Sub).
-* **Integraciones Core:** Desarrollo de un Bot conversacional nativo utilizando la API de **Meta/WhatsApp** para notificaciones automatizadas y flujos de negocio. Integración profunda con Google Maps API.
-* **Frontend Cliente:** Desarrollo de una Progressive Web App (PWA) "offline-first" orientada a dispositivos móviles usando **React, TypeScript y Capacitor**, asegurando la continuidad del trabajo sin conexión a internet.
 
 ---
 
