@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Mateo+Valencia+Ardila;Desarrollador+de+Software;Backend+%7C+Frontend+%7C+Ciberseguridad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Mateo+Valencia+Ardila;Desarrollador+de+Software;Full-Stack+%7C+Ciberseguridad" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ftt-matteo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:valenciaardila988@icloud.com)
 
@@ -11,8 +11,8 @@
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Messenger Ecosystem</h3>
-      <p align="center"><b>Enterprise Resource Planning & Delivery</b></p>
+      <h3 align="center">PLAK</h3>
+      <p align="center"><b>Planificación y gestión de recursos empresariales</b></p>
       <div align="center">
         <a href="https://github.com/fttmatteo/messenger-backend">
           <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot" />
@@ -30,8 +30,8 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ USB Guard</h3>
-      <p align="center"><b>Zero-Trust Security System</b></p>
+      <h3 align="center">USB Guard</h3>
+      <p align="center"><b>Sistema de seguridad Zero-Trust</b></p>
       <div align="center">
         <a href="https://github.com/fttmatteo/usb-guard">
           <img src="https://img.shields.io/badge/Windows-WPF_.NET_10-512BD4?style=flat-square&logo=windows" />
