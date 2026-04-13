@@ -98,10 +98,8 @@
 
 ## Actividad
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fttmatteo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fttmatteo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=fttmatteo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fttmatteo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 <div align="center">
   <br/>
