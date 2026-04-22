@@ -6,7 +6,7 @@
 
 </div>
 
-## Proyectos Destacados
+## Proyectos
 
 <table bordercolor="#30363d">
   <tr>
@@ -36,18 +36,41 @@
         <a href="https://github.com/fttmatteo/usb-guard">
           <img src="https://img.shields.io/badge/Windows-WPF_.NET_10-512BD4?style=flat-square&logo=windows" />
         </a>
-        <a href="https://github.com/fttmatteo/usb-guard">
-          <img src="https://img.shields.io/badge/Security-C++_Hooks-00599C?style=flat-square&logo=c%2B%2B" />
+        <a href="https://sourceforge.net/projects/usb-guard/">
+          <img src="https://img.shields.io/badge/SourceForge-Publicado-FF6600?style=flat-square&logo=sourceforge&logoColor=white" />
         </a>
       </div>
       <br/>
-      <p>Software de seguridad local que transforma memorias USB estándar en llaves criptográficas físicas de hardware. Cuenta con encriptación nativa y protección activa contra ataques por fuerza bruta (Brute-Force).</p>
+      <p>Proyecto de desarrollo enfocado en seguridad local que transforma memorias USB estándar en llaves criptográficas físicas de hardware. Cuenta con control de sistema a bajo nivel (Win32), encriptación nativa y protección activa contra ataques por fuerza bruta.</p>
       <div align="center">
-        <a href="https://github.com/fttmatteo/usb-guard">
+        <a href="https://sourceforge.net/projects/usb-guard/">
           <img src="assets/usb-guard.png" width="100%" alt="USB Guard UI" style="border-radius: 8px;" />
         </a>
       </div>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Guardian</h3>
+      <p align="center"><b>Auditor de Código Asistido por IA</b></p>
+      <div align="center">
+        <a href="https://github.com/fttmatteo/ai-guardian">
+          <img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </a>
+        <a href="https://marketplace.visualstudio.com/">
+          <img src="https://img.shields.io/badge/VS_Code-Extensión_Publicada-007ACC?style=flat-square&logo=visual-studio-code" />
+        </a>
+      </div>
+      <br/>
+      <p>Extensión publicada en el Marketplace de Visual Studio Code para auditar vulnerabilidades en tiempo real, enfocada en código generado por IA. Combina un motor local determinista ultrarrápido con un auditor LLM para escaneos semánticos profundos y contextuales.</p>
+      <div align="center">
+        <a href="https://github.com/fttmatteo/ai-guardian">
+          <img src="assets/ai-guardian.png" width="100%" alt="AI Guardian UI" style="border-radius: 8px;" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      </td>
   </tr>
 </table>
 
