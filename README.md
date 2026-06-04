@@ -11,25 +11,6 @@
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">PLAK</h3>
-      <p align="center"><b>Planificación y gestión de recursos empresariales</b></p>
-      <div align="center">
-        <a href="https://github.com/fttmatteo/messenger-backend">
-          <img src="https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot" />
-        </a>
-        <a href="https://github.com/fttmatteo/messenger-frontend">
-          <img src="https://img.shields.io/badge/Frontend-React_TS-3178C6?style=flat-square&logo=react" />
-        </a>
-      </div>
-      <br/>
-      <p>Sistema completo de trazabilidad empresarial. Actualmente <b>implementado y en producción en la Secretaría de Movilidad (Tránsito de Sabaneta)</b> manejando servicios críticos con alta concurrencia y seguridad.</p>
-      <div align="center">
-        <a href="https://github.com/fttmatteo/messenger-backend">
-          <img src="assets/messenger.png" width="100%" alt="Messenger Ecosystem UI" style="border-radius: 8px;" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">USB Guard</h3>
       <p align="center"><b>Sistema de seguridad Zero-Trust</b></p>
       <div align="center">
@@ -69,8 +50,6 @@
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
-      </td>
   </tr>
 </table>
 
