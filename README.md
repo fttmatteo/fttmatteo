@@ -9,9 +9,10 @@
 ## Proyectos
 
 <table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">USB Guard</h3>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">USB Guard</h3>
       <p align="center"><b>Sistema de seguridad Zero-Trust</b></p>
       <div align="center">
         <a href="https://github.com/fttmatteo/usb-guard">
@@ -49,8 +50,8 @@
           <img src="assets/ai-guardian.png" width="100%" alt="AI Guardian UI" style="border-radius: 8px;" />
         </a>
       </div>
-    </td>
-  </tr>
+    </tr>
+  </tbody>
 </table>
 
 <br/>
@@ -59,9 +60,10 @@
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="25%">
-        <b>Arquitectura & Backend</b><br><br>
+    <tbody>
+      <tr>
+        <td align="center" width="25%">
+          <b>Arquitectura & Backend</b><br><br>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
@@ -92,7 +94,8 @@
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/><br>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
       </td>
-    </tr>
+      </tr>
+    </tbody>
   </table>
 </div>
 
