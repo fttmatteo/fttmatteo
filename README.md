@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">USB Guard</h3>
+        <p align="center"><b><big>USB Guard</big></b></p>
       <p align="center"><b>Sistema de seguridad Zero-Trust</b></p>
       <div align="center">
         <a href="https://github.com/fttmatteo/usb-guard">
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AI Guardian</h3>
+        <p align="center"><b><big>AI Guardian</big></b></p>
       <p align="center"><b>Auditor de Código Asistido por IA</b></p>
       <div align="center">
         <a href="https://github.com/fttmatteo/ai-guardian">
