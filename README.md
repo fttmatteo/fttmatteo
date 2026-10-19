@@ -1,189 +1,131 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Mateo+Valencia+Ardila;Desarrollador+de+Software;Full-Stack+%7C+Ciberseguridad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Mateo+Valencia+Ardila;Desarrollador+de+Software+Full-Stack;Ciberseguridad+%7C+Java+%7C+React+%7C+.NET" alt="Mateo Valencia Ardila · Desarrollador de Software Full-Stack" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ftt-matteo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:valenciaardila988@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ftt-matteo) [![Email](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white&style=for-the-badge)](mailto:valenciaardila988@icloud.com)
+
+Construyo software completo, del backend a la app móvil, pensando en la seguridad desde la primera línea.<br/>
+Auxiliar de Sistemas en el Tránsito de Sabaneta · Estudiante de Ingeniería de Software y Datos (IU Digital de Antioquia) · Medellín, Colombia
 
 </div>
 
 ## Proyectos
 
-<table bordercolor="#30363d">
+<table>
   <tbody>
     <tr>
-      <!-- PROYECTO 1: USB GUARD -->
+      <!-- USB GUARD -->
       <td width="50%" valign="top">
-        <p align="center"><b><big>USB Guard</big></b></p>
-        <p align="center"><b>Sistema de seguridad Zero-Trust</b></p>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/usb-guard">
-            <img src="https://img.shields.io/badge/Windows-WPF_.NET_10-512BD4?style=flat-square&logo=windows" />
-          </a>
-          <a href="https://sourceforge.net/projects/usb-guard/">
-            <img src="https://img.shields.io/badge/SourceForge-Publicado-FF6600?style=flat-square&logo=sourceforge&logoColor=white" />
-          </a>
-          <a href="https://sourceforge.net/projects/usb-guard/">
-            <img src="https://img.shields.io/badge/Descargas-+800-2ea44f?style=flat-square&logo=sourceforge&logoColor=white" />
-          </a>
-        </div>
-        <br/>
-        <p>Proyecto de desarrollo enfocado en seguridad local que transforma memorias USB estándar en llaves criptográficas físicas de hardware. Cuenta con control de sistema a bajo nivel (Win32), encriptación nativa y protección activa contra ataques por fuerza bruta.</p>
-        <p align="center">🏆 <b>Galardonado con Insignia en SourceForge</b> y respaldado por más de <b>800 descargas</b>.</p>
-        <div align="center">
-          <a href="https://sourceforge.net/projects/usb-guard/">
-            <img src="assets/usb-guard.png" alt="USB Guard UI" style="border-radius: 8px; width: 100%; height: 250px; object-fit: cover;" />
-          </a>
-        </div>
+        <a href="https://github.com/fttmatteo/usb-guard"><img src="assets/usb-guard.png" alt="USB Guard: pantalla de bloqueo" width="100%" /></a>
+        <p align="center">
+          <a href="https://github.com/fttmatteo/usb-guard"><img src="https://img.shields.io/badge/Código-Abierto_(MIT)-2ea44f?style=flat-square&logo=github" /></a>
+          <a href="https://sourceforge.net/projects/usb-guard/"><img src="https://img.shields.io/badge/SourceForge-+800_descargas-FF6600?style=flat-square&logo=sourceforge&logoColor=white" /></a>
+        </p>
+        <p>Convierte una memoria USB en una llave criptográfica: si la desconectas, Windows se bloquea al instante. Valida el serial del hardware (Win32 API, WMI), protege las llaves con AES-GCM 256 y frena la fuerza bruta con espera exponencial.</p>
+        <p align="center">🏆 Insignia de SourceForge por su número de descargas.</p>
       </td>
-      <!-- PROYECTO 2: AI GUARDIAN -->
+      <!-- AI GUARDIAN -->
       <td width="50%" valign="top">
-        <p align="center"><b><big>AI Guardian</big></b></p>
-        <p align="center"><b>Auditor de Código Asistido por IA</b></p>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/ai-guardian">
-            <img src="https://img.shields.io/badge/TypeScript-Core-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          </a>
-          <a href="https://marketplace.visualstudio.com/">
-            <img src="https://img.shields.io/badge/VS_Code-Extensión_Publicada-007ACC?style=flat-square&logo=visual-studio-code" />
-          </a>
-        </div>
-        <br/>
-        <p>Extensión publicada en el Marketplace de Visual Studio Code para auditar vulnerabilidades en tiempo real, enfocada en código generado por IA. Combina un motor local determinista ultrarrápido con un auditor LLM para escaneos semánticos profundos y contextuales.</p>
-        <br/>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/ai-guardian">
-            <img src="assets/ai-guardian.png" alt="AI Guardian UI" style="border-radius: 8px; width: 100%; height: 250px; object-fit: cover;" />
-          </a>
-        </div>
+        <a href="https://github.com/fttmatteo/ai-guardian"><img src="assets/ai-guardian.png" alt="AI Guardian marcando vulnerabilidades en VS Code" width="100%" /></a>
+        <p align="center">
+          <a href="https://github.com/fttmatteo/ai-guardian"><img src="https://img.shields.io/badge/Código-Abierto-2ea44f?style=flat-square&logo=github" /></a>
+          <a href="https://marketplace.visualstudio.com/items?itemName=fttmatteo.ai-guardian"><img src="https://img.shields.io/badge/VS_Code-Marketplace-007ACC?style=flat-square&logo=visual-studio-code" /></a>
+        </p>
+        <p>Extensión de VS Code que audita en tiempo real el código generado con IA contra el OWASP Top 10 y propone la corrección con <kbd>Ctrl</kbd> + <kbd>.</kbd>. Reglas locales rápidas + LLM cuando hace falta, con tus propias llaves (Gemini, OpenAI o Claude).</p>
       </td>
     </tr>
     <tr>
-      <!-- PROYECTO 3: MESSENGER BACKEND -->
+      <!-- PLAK MESSENGER -->
       <td width="50%" valign="top">
-        <p align="center"><b><big>Messenger Backend</big></b></p>
-        <p align="center"><b>Sistema Logístico y Monitoreo Satelital</b></p>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/messenger-backend">
-            <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-          </a>
-        </div>
-        <br/>
-        <p>Backend robusto y concurrente construido en Java con Spring Boot bajo los estrictos principios de <b>Arquitectura Hexagonal</b>. Expone una API REST segura, sockets (Redis) para tracking GPS en tiempo real de flotas y automatización interactiva mediante un bot oficial de WhatsApp API.</p>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/messenger-backend">
-            <!-- [INDICADOR] PON AQUÍ LA RUTA A TU CAPTURA DE PANTALLA DE MESSENGER BACKEND -->
-            <img src="assets/messenger-backend-endpoints.png" alt="Messenger Backend UI" style="border-radius: 8px; width: 100%; height: 250px; object-fit: cover;" />
-          </a>
-        </div>
+        <img src="assets/plak-messenger.png" alt="PLAK Messenger: panel web y app Android" width="100%" />
+        <p align="center">
+          <img src="https://img.shields.io/badge/🔒_Privado-Registro_DNDA-555?style=flat-square" />
+          <img src="https://img.shields.io/badge/+2.000-commits-6DB33F?style=flat-square&logo=git&logoColor=white" />
+        </p>
+        <p>Entregas de placas vehiculares del tránsito a concesionarios: foto de la placa → OCR, GPS en vivo con WebSockets y Redis, avisos por WhatsApp y app Android que funciona sin señal. Backend Java + Spring Boot con arquitectura hexagonal verificada con ArchUnit.</p>
       </td>
-      <!-- PROYECTO 4: MESSENGER FRONTEND -->
+      <!-- LEX FAMILIA -->
       <td width="50%" valign="top">
-        <p align="center"><b><big>Messenger Frontend</big></b></p>
-        <p align="center"><b>Panel Web y App Nativa (Android)</b></p>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/messenger-frontend">
-            <img src="https://img.shields.io/badge/React-Panel_Web-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          </a>
-          <a href="https://github.com/fttmatteo/messenger-frontend">
-            <img src="https://img.shields.io/badge/Capacitor-Mobile_App-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
-          </a>
-        </div>
-        <br/>
-        <p>Aplicación de alto rendimiento orientada a la logística. Panel de administración web para visualizar flotas en tiempo real, junto a una app nativa Android optimizada para transportistas con ejecución de tareas en segundo plano (Foreground Services) para telemetría constante.</p>
-        <div align="center">
-          <a href="https://github.com/fttmatteo/messenger-frontend">
-            <!-- [INDICADOR] PON AQUÍ LA RUTA A TU CAPTURA DE PANTALLA DE MESSENGER FRONTEND -->
-            <img src="assets/messenger.png" alt="Messenger Frontend UI" style="border-radius: 8px; width: 100%; height: 250px; object-fit: cover;" />
-          </a>
-        </div>
+        <a href="https://asesoriasfamilia.com/"><img src="assets/lex-familia.png" alt="Lex Familia en escritorio y móvil" width="100%" /></a>
+        <p align="center">
+          <a href="https://asesoriasfamilia.com/"><img src="https://img.shields.io/badge/En_producción-asesoriasfamilia.com-8A2BE2?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+          <img src="https://img.shields.io/badge/🔒_Privado-555?style=flat-square" />
+        </p>
+        <p>Plataforma LegalTech de asesoría jurídica en Derecho de Familia. SEO técnico (prerenderizado, JSON-LD), accesibilidad y rendimiento como requisito. React + TypeScript + Vite sobre Cloudflare Workers.</p>
       </td>
     </tr>
     <tr>
-      <!-- PROYECTO 5: LEX FAMILIA -->
+      <!-- RP SOFTWARE -->
       <td width="50%" valign="top">
-        <p align="center"><b><big>Lex Familia</big></b></p>
-        <p align="center"><b>Plataforma LegalTech de Alta Conversión</b></p>
-        <div align="center">
-          <a href="https://asesoriasfamilia.com/">
-            <img src="https://img.shields.io/badge/React-Privado-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          </a>
-          <a href="https://asesoriasfamilia.com/">
-            <img src="https://img.shields.io/badge/Deploy-Producción-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-          </a>
-        </div>
-        <br/>
-        <p>Aplicación web B2C de asesoría jurídica virtual. Construida con un enfoque obsesivo en <b>SEO técnico, accesibilidad y rendimiento extremo</b>. Implementa un diseño premium responsivo, micro-interacciones y datos estructurados (JSON-LD) para dominar el posicionamiento orgánico en el nicho legal.</p>
-        <div align="center">
-          <a href="https://asesoriasfamilia.com/">
-            <!-- [INDICADOR] PON AQUÍ LA RUTA A TU CAPTURA DE PANTALLA DE LEX FAMILIA -->
-            <img src="assets/lex-familia-screenshot-aqui.png" alt="Lex Familia UI" style="border-radius: 8px; width: 100%; height: 250px; object-fit: cover;" />
-          </a>
-        </div>
+        <img src="assets/rp-software.png" alt="RP Software: reportes y pedidos con datos de demostración" width="100%" />
+        <p align="center">
+          <img src="https://img.shields.io/badge/🔒_Privado-Datos_demo-555?style=flat-square" />
+        </p>
+        <p>ERP web y móvil para una empresa avícola: inventario por movimientos, pedidos, rutas de entrega, recibos PDF, cartera y caja, con roles verificados en el servidor. Next.js + Prisma + PostgreSQL, Docker y CI/CD.</p>
       </td>
-      <!-- ESPACIO VACÍO / PRÓXIMAMENTE -->
       <td width="50%" valign="middle" align="center">
-        <p align="center"><b><big>¡Próximamente!</big></b></p>
-        <p align="center">Más proyectos en desarrollo...</p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Work_In_Progress-Stay_Tuned-8A2BE2?style=for-the-badge" />
-        </div>
+        <p><b>¿Quieres ver más?</b></p>
+        <p>Los proyectos privados no tienen el código abierto, pero con gusto te cuento cómo están hechos.</p>
+        <a href="https://linkedin.com/in/ftt-matteo"><img src="https://img.shields.io/badge/Conectemos-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
       </td>
     </tr>
   </tbody>
 </table>
 
-<br/>
-
-## Arsenal Tecnológico
+## Tecnologías
 
 <div align="center">
   <table>
     <tbody>
       <tr>
-        <td align="center" width="25%">
-          <b>Arquitectura & Backend</b><br><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
-      </td>
-      <td align="center" width="25%">
-        <b>Frontend & Mobile</b><br><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-      </td>
-      <td align="center" width="25%">
-        <b>Ciberseguridad & OS</b><br><br>
-        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Windows_API-00A4EF?style=for-the-badge&logo=windows&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-      </td>
-      <td align="center" width="25%">
-        <b>Cloud & Herramientas</b><br><br>
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/><br>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-      </td>
+        <td align="center" width="25%" valign="top">
+          <b>Backend y datos</b><br><br>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
+        </td>
+        <td align="center" width="25%" valign="top">
+          <b>Frontend y móvil</b><br><br>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+        </td>
+        <td align="center" width="25%" valign="top">
+          <b>Ciberseguridad y Windows</b><br><br>
+          <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Windows_API-00A4EF?style=for-the-badge&logo=windows&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+        </td>
+        <td align="center" width="25%" valign="top">
+          <b>DevOps y calidad</b><br><br>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/><br>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        </td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<br/>
-
 ## Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=fttmatteo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fttmatteo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Langs" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=fttmatteo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=fttmatteo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
 </p>
 
 <div align="center">
@@ -191,7 +133,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg">
+    <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/fttmatteo/fttmatteo/output/snake.svg">
   </picture>
 </div>
 
@@ -199,6 +141,6 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/fttmatteo/">
-    <img alt="Hits" src="https://hits.sh/github.com/fttmatteo.svg?style=for-the-badge&label=Profile%20Views&color=007ec6">
+    <img alt="Visitas al perfil" src="https://hits.sh/github.com/fttmatteo.svg?style=for-the-badge&label=Profile%20Views&color=007ec6">
   </a>
 </p>
