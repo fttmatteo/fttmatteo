@@ -19,7 +19,7 @@ Auxiliar de Sistemas en el Tránsito de Sabaneta · Estudiante de Ingeniería de
         <a href="https://github.com/fttmatteo/usb-guard"><img src="assets/usb-guard.png" alt="USB Guard: pantalla de bloqueo" width="100%" /></a>
         <p align="center">
           <a href="https://github.com/fttmatteo/usb-guard"><img src="https://img.shields.io/badge/Código-Abierto_(MIT)-2ea44f?style=flat-square&logo=github" /></a>
-          <a href="https://sourceforge.net/projects/usb-guard/"><img src="https://img.shields.io/badge/SourceForge-+800_descargas-FF6600?style=flat-square&logo=sourceforge&logoColor=white" /></a>
+          <a href="https://sourceforge.net/projects/usb-guard/"><img src="https://img.shields.io/sourceforge/dt/usb-guard?label=descargas&style=flat-square&logo=sourceforge&logoColor=white&color=FF6600" /></a>
         </p>
         <p>Convierte una memoria USB en una llave criptográfica: si la desconectas, Windows se bloquea al instante. Valida el serial del hardware (Win32 API, WMI), protege las llaves con AES-GCM 256 y frena la fuerza bruta con espera exponencial.</p>
         <p align="center">🏆 Insignia de SourceForge por su número de descargas.</p>
