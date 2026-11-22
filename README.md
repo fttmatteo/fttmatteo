@@ -19,7 +19,7 @@ Auxiliar de Sistemas en el Tránsito de Sabaneta · Estudiante de Ingeniería de
       </td>
       <td width="40%" valign="middle">
         <p><b><big>Sitio web oficial del Tránsito de Sabaneta</big></b></p>
-        <p>Rediseñé <a href="https://utsetsa.com/">utsetsa.com</a> en mi primer mes como Auxiliar de Sistemas: trámites, citas y pagos PSE a un clic, buscador de trámites y controles de accesibilidad.</p>
+        <p>Rediseñé <a href="https://utsetsa.com/">utsetsa.com</a>: trámites, citas y pagos PSE a un clic, buscador de trámites y controles de accesibilidad.</p>
         <p>SEO técnico con datos estructurados y una portada más liviana: de 48 a 16 scripts y de 10 plugins a 1.</p>
         <p>
           <a href="https://utsetsa.com/"><img src="https://img.shields.io/badge/En_producción-utsetsa.com-F5B301?style=flat-square&logo=wordpress&logoColor=white" /></a>
