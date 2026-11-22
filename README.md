@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ftt-matteo) [![Email](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white&style=for-the-badge)](mailto:valenciaardila988@icloud.com)
 
 Construyo software completo, del backend a la app móvil, pensando en la seguridad desde la primera línea.<br/>
-Auxiliar de Sistemas en el Tránsito de Sabaneta · Estudiante de Ingeniería de Software y Datos (IU Digital de Antioquia) · Medellín, Colombia
+Ingeniería de Software y Datos · Colombia
 
 </div>
 
