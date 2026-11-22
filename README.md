@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Mateo+Valencia+Ardila;Desarrollador+Full-Stack;Ciberseguridad+%C2%B7+Java+%C2%B7+React" alt="Mateo Valencia Ardila · Desarrollador de Software Full-Stack" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ftt-matteo) [![Email](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white&style=for-the-badge)](mailto:valenciaardila988@icloud.com)
+[![Email](https://img.shields.io/badge/Email-3693F3?logo=icloud&logoColor=white&style=for-the-badge)](mailto:valenciaardila988@icloud.com)
 
 Construyo software completo, del backend a la app móvil, pensando en la seguridad desde la primera línea.<br/>
 Ingeniería de Software y Datos · Colombia
